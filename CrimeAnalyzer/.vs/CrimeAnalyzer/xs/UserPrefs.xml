@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{94675089-EBEA-4AF6-8C1D-361BB4BB6166}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrimeAnalyzer/Program.cs">
+    <Files>
+      <File FileName="CrimeAnalyzer/Program.cs" Line="149" Column="82" />
+      <File FileName="CrimeAnalyzer/Crime.cs" Line="6" Column="1" />
+      <File FileName="CrimeAnalyzer/CrimeData.csv" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrimeAnalyzer" expanded="True">
+            <Node name="CrimeAnalyzer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CrimeAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

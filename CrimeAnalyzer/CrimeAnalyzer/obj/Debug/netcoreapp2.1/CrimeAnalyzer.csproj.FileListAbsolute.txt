@@ -1,0 +1,11 @@
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.deps.json
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.runtimeconfig.json
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.runtimeconfig.dev.json
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.dll
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.pdb
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.csprojAssemblyReference.cache
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.AssemblyInfoInputs.cache
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.AssemblyInfo.cs
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.dll
+/Users/candacem/Documents/Projects/Crime/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.pdb
